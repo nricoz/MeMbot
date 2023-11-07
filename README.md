@@ -1,2 +1,2 @@
 # MeMbot
-Robot that follows instrictopms
+Robot that follows instructions.
